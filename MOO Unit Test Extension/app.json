@@ -1,0 +1,45 @@
+{
+  "id": "1ae7ac75-50c7-40da-8b78-f596668588e9",
+  "name": "MOO Unit Test Extension",
+  "publisher": "Kation Technologies Inc.",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "35539eb4-58a9-4e64-ba60-cb6ad03d830d",
+      "name": "Lazada",
+      "publisher": "Kation Technologies Inc.",
+      "version": "1.0.0.0"
+    },
+    {
+      "name": "MOO BC Extension",
+      "version": "1.0.0.0",
+      "publisher": "Kation Technologies Inc.",
+      "id": "dc033fbf-eb86-4035-868d-8af3d21e6061"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 80001,
+      "to": 80200
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

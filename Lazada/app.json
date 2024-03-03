@@ -1,0 +1,37 @@
+{
+  "id": "35539eb4-58a9-4e64-ba60-cb6ad03d830d",
+  "name": "Lazada",
+  "publisher": "Kation Technologies Inc.",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [{
+    "name": "MOO BC Extension",
+    "version": "1.0.0.0",
+    "publisher": "Kation Technologies Inc.",
+    "id": "dc033fbf-eb86-4035-868d-8af3d21e6061"
+  }],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 70501,
+      "to": 70650
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
